@@ -32,19 +32,19 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,mysql,sqlite,c,cpp,html,css,js,markdown" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,sqlite,c,cpp,html,css,js,markdown" />
 </p>
 
 ### ⚙️ Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,androidstudio,gradle,maven" />
+  <img src="https://skillicons.dev/icons?i=spring,androidstudio,gradle,maven" />
 </p>
 
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
 </p>
 
 ---
@@ -52,17 +52,12 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=An256122006&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=An256122006&theme=tokyonight&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=An256122006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=An256122006&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An256122006&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An256122006&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 </p>
 
 ---
@@ -70,9 +65,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=An256122006&theme=tokyonight&no-frame=true&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=An256122006&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
@@ -80,19 +73,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=An256122006&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/An256122006/An256122006/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=An256122006&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -113,23 +94,18 @@ Research & comparison of Shopee, Lazada and Tiki architectures.
 # 📫 Contact Me
 
 <p>
-
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=An256122006&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=quang0510&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <h3 align="center">
