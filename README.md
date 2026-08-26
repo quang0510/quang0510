@@ -52,11 +52,12 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=quang0510&show_icons=true&theme=tokyonight&hide_border=true" alt="quang0510 stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quang0510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=quang0510&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=quang0510&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang0510&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 </p>
 
 ---
@@ -64,11 +65,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quang0510&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2196f3/quang0510" alt="quang0510's Github chart" />
+  <img src="https://ghchart.rshah.org/00F7FF/quang0510" alt="quang0510's Github chart" />
 </p>
 
 ---
