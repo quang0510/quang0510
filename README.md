@@ -52,12 +52,12 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=An256122006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=An256122006&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quang0510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=quang0510&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An256122006&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang0510&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=An256122006&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=quang0510&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=An256122006&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quang0510&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
