@@ -64,14 +64,8 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quang0510&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/00F7FF/quang0510" alt="quang0510's Github chart" />
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2196f3/quang0510" alt="quang0510's Github chart" />
-</p>
-
----
 
 # 🌟 Featured Projects
 
