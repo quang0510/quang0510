@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/Ywj2iCO1TOkyQ.webp" width="180"/>
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="220" alt="Fishing"/>
 </p>
 
 <p align="center">
